@@ -32,7 +32,7 @@
         display:block;
 
     }
-    /*  IE9 FIX   */
+    
     .table-responsive-stack td {
         float: left\9;
         width:100%;
